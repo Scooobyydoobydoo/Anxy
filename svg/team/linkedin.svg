@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <defs>
+        <polygon id="path-1" points="0 20 20 20 20 0 0 0"></polygon>
+    </defs>
+    <g id="mainpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PM-NFT-LP-Desktop-Copy-77" transform="translate(-650.000000, -795.000000)">
+            <g id="Group-4" transform="translate(525.000000, 795.000000)">
+                <g id="Group-6" transform="translate(125.000000, 0.000000)">
+                    <path d="M4.44444444,2.23801066 C4.44444444,3.47468917 3.45111111,4.47602131 2.22222222,4.47602131 C0.993333333,4.47602131 0,3.47690941 0,2.23801066 C0,1.00133215 0.993333333,3.94395391e-15 2.22222222,3.94395391e-15 C3.45111111,3.94395391e-15 4.44444444,1.0035524 4.44444444,2.23801066" id="Fill-1" fill="#FFFFFF"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)" points="0 20 4.44444444 20 4.44444444 6.67850799 0 6.67850799"></polygon>
+                    <path d="M11.1111111,6.67850799 L6.66666667,6.67850799 L6.66666667,20 L11.1111111,20 L11.1111111,13.6478686 C11.1111111,9.82460036 15.56,9.47158082 15.56,13.6478686 L15.56,20 L20,20 L20,12.5421847 C20,5.2508881 13.0488889,5.51731794 11.1111111,9.10523979 L11.1111111,6.67850799 Z" id="Fill-5" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
